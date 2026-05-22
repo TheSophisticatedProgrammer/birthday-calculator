@@ -17,9 +17,6 @@ A command-line Python application that calculates your exact age and tracks the 
 1. Save the code to a file named `main.py`.
 2. Open your terminal.
 3. Execute the script:
-   ```bash
-   python birthday_calculator.py
-   ```
 
 ## Usage Guide
 
